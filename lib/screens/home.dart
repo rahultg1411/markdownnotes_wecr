@@ -47,7 +47,7 @@ class _HomeState extends State<Home> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Colors.blueGrey[900],
+      backgroundColor: Color.fromRGBO(6, 34, 34, 1.0),
       floatingActionButton: FloatingActionButton(
         onPressed: () {
           Navigator.push(
@@ -71,15 +71,15 @@ class _HomeState extends State<Home> {
       appBar: AppBar(
         title: Text(
           'Notes',
-          style: GoogleFonts.poppins(
-            fontWeight: FontWeight.w700,
-            fontSize: 21,
-            color: Colors.redAccent,
+          style: GoogleFonts.kanit(
+            fontWeight: FontWeight.w600,
+            fontSize: 33,
+            color: Color.fromRGBO(157, 9, 9, 1.0),
           ),
         ),
         centerTitle: true,
-        elevation: 0,
-        backgroundColor: Colors.transparent,
+        elevation: 20,
+        backgroundColor: Color.fromRGBO(7, 100, 38, 1.0),
       ),
       body: isLoading
           ? const Center(

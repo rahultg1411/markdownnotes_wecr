@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867167657763",
+    "project_id": "markdown-notes-48bae",
+    "storage_bucket": "markdown-notes-48bae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867167657763:android:b4e9b1dcdea5cb15393696",
+        "android_client_info": {
+          "package_name": "com.android.markdownnotes_wecr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867167657763-hibj86noverlli2ljt5gp2rr0uqk8qan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRQ2JecyyQso1XUgxt4yft7RLy-Sqi1x0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867167657763-hibj86noverlli2ljt5gp2rr0uqk8qan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
